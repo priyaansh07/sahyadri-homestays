@@ -3,6 +3,8 @@
 College prototype (CIA 3 · Group 8 · Low-Code Tools) for a fictional 12-room homestay in Lonavala.
 React + TypeScript + Tailwind, runs fully in the browser. All data is saved in the browser's localStorage, with no backend and no login. **All guest data is fictional.**
 
+**Live demo:** https://priyaansh07.github.io/sahyadri-homestays/ (opens in any browser; each visitor gets their own copy of the demo data)
+
 ## Run it
 
 ```bash
